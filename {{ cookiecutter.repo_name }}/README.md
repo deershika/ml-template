@@ -1,3 +1,7 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/deershika/ml-template/blob/main/%7B%7B%20cookiecutter.repo_name%20%7D%7D/notebooks/tabular_competition_template.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/deershika/ml-template/blob/main/notebooks/tabular_competition_template.ipynb)
+
 # 使用手順
 1. input.csv -> input.feather
 ```
