@@ -5,7 +5,7 @@ kaggle用のテンプレートを作成しました
 ### 使用方法
 ### Clone
 ```
-git clone https://github.com/munema/kaggle_template
+git clone https://github.com/deershika/kaggle_template
 ```
 
 #### Cookiecutter のインストール
