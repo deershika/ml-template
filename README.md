@@ -5,7 +5,7 @@ kaggle用のテンプレートを作成しました
 ### 使用方法
 ### Clone
 ```
-git clone https://github.com/deershika/kaggle_template
+git clone git@github.com:deershika/ml-template.git
 ```
 
 #### Cookiecutter のインストール
@@ -14,7 +14,7 @@ $ pip install cookiecutter
 ```
 #### プロジェクト作成 (コマンド実行後適宜質問に回答してください,project_nameがファイル名になります)
 ```
-$ cookiecutter kaggle_template
+$ cookiecutter ml-template
 ```
 
 #### 参考サイト (以下のサイトを参考にしてテンプレートを作成しました) 
@@ -23,3 +23,4 @@ $ cookiecutter kaggle_template
 * https://upura.hatenablog.com/entry/2018/12/28/225234
 * https://amalog.hateblo.jp/entry/lightgbm-logging-callback
 * https://amalog.hateblo.jp/entry/kaggle-feature-management
+
